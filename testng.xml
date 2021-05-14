@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test">
+	<listeners>
+		<listener
+			class-name="com.demoaut.newtours.qa.ExtendReport.ExtentReporterNG" />
+	</listeners>
+	<test name="testng">
+		<classes>
+			<!-- class name="com.demoaut.newtours.qa.testcases.HomePageTest" -->
+			<class
+				name="com.demoaut.newtours.qa.testcases.RegistrationPageTest" />
+		</classes>
+	</test>
+</suite> 	

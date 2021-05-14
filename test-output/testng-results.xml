@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="test" duration-ms="45628" started-at="2021-05-14T20:02:50 IST" finished-at="2021-05-14T20:03:35 IST">
+    <groups>
+    </groups>
+    <test name="testng" duration-ms="45628" started-at="2021-05-14T20:02:50 IST" finished-at="2021-05-14T20:03:35 IST">
+      <class name="com.demoaut.newtours.qa.testcases.RegistrationPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="setUp" is-config="true" duration-ms="9404" started-at="2021-05-14T20:02:50 IST" finished-at="2021-05-14T20:03:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="testMethod" duration-ms="3360" started-at="2021-05-14T20:03:00 IST" data-provider="getRegisterData" finished-at="2021-05-14T20:03:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Patel]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.0E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ajay.Patel@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[address1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[400001.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[AjayPatel]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[AjayPatel]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[AjayPatel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="tearDown" is-config="true" duration-ms="1302" started-at="2021-05-14T20:03:03 IST" finished-at="2021-05-14T20:03:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="setUp" is-config="true" duration-ms="6541" started-at="2021-05-14T20:03:04 IST" finished-at="2021-05-14T20:03:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="testMethod" duration-ms="3199" started-at="2021-05-14T20:03:11 IST" data-provider="getRegisterData" finished-at="2021-05-14T20:03:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kedar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Nath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.00000001E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kedar.Nath@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[address2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[400002.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[KedarNath]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[KedarNath]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[KedarNath]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="tearDown" is-config="true" duration-ms="657" started-at="2021-05-14T20:03:14 IST" finished-at="2021-05-14T20:03:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="setUp" is-config="true" duration-ms="6632" started-at="2021-05-14T20:03:15 IST" finished-at="2021-05-14T20:03:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="testMethod" duration-ms="2717" started-at="2021-05-14T20:03:21 IST" data-provider="getRegisterData" finished-at="2021-05-14T20:03:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Som]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Prakash]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.00000002E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Som.Prakash@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[address3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[400003.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[SomPrakash]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[SomPrakash]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[SomPrakash]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="tearDown" is-config="true" duration-ms="681" started-at="2021-05-14T20:03:24 IST" finished-at="2021-05-14T20:03:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="setUp" is-config="true" duration-ms="7211" started-at="2021-05-14T20:03:25 IST" finished-at="2021-05-14T20:03:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="testMethod" duration-ms="2461" started-at="2021-05-14T20:03:32 IST" data-provider="getRegisterData" finished-at="2021-05-14T20:03:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aruna]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pardesh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9.00000003E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aruna.Pardesh@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[address4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[400004.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[ArunaPardesh]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[ArunaPardesh]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[ArunaPardesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demoaut.newtours.qa.testcases.RegistrationPageTest@7364985f]" name="tearDown" is-config="true" duration-ms="740" started-at="2021-05-14T20:03:34 IST" finished-at="2021-05-14T20:03:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoaut.newtours.qa.testcases.RegistrationPageTest -->
+    </test> <!-- testng -->
+  </suite> <!-- test -->
+</testng-results>
